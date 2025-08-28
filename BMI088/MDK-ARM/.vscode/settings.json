@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.hpp": "cpp",
+        "stm32f4xx_hal_flash.h": "c"
+    }
+}
